@@ -2,11 +2,11 @@
 A simple, modern expense tracker built with a Java (Spring Boot) backend and a Vanilla HTML/CSS/JavaScript frontend with Tailwind CSS.
 
 🚀 How It Works
-Frontend: A sleek web interface where you can add, view, and delete transactions.
+Frontend: A sleek web interface for adding, viewing, and deleting transactions.
 Backend: A Java REST API that stores your data (currently in-memory for easy setup).
 Hybrid Mode: If the Java backend is not running, the app automatically switches to Local Storage so you don't lose your data!
 🛠️ Required Libraries & Tools
-You don't need to manually download libraries; the project handles them via CDN and Maven.
+You don't need to download libraries manually; the project handles them via CDN and Maven.
 
 Frontend (Included via CDN)
 Tailwind CSS: For modern, responsive styling.
